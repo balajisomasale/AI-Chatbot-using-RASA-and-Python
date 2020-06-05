@@ -1,7 +1,7 @@
 # Chatbot-using-RASA-and-Python
 Coursera Guided Project
 
-# What is RASA ??
+### What is RASA ??
 Rasa is an open source machine learning framework for building AI assistants and chatbots. ... 
 
 Although there is something called “Rasa Action Server” where you need to write code in Python, that mainly used to trigger External actions like Calling <strong> Google API or REST API </strong> etc.
